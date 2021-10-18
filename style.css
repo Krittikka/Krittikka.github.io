@@ -179,7 +179,7 @@ h1{
 .loginbox input[type="text"],input[type="password"]
 {
    
-    color: #fff;
+    color: #000;
     font-size: 12px;
 }
 .loginbox input[type="submit"]
